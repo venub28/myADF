@@ -1,5 +1,5 @@
 {
-	"name": "cvsCities",
+	"name": "dscvsCities",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage_Raw",
