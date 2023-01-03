@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "labadfvenub28"
+		},
+		"AzureBlobStorage_Raw_properties_typeProperties_connectionString_secretName": {
+			"value": "saadlsgen2venub28"
+		},
+		"saadlsgen2venub28_properties_typeProperties_baseUrl": {
+			"value": "https://labkvvenub28.vault.azure.net/"
+		}
+	}
+}
