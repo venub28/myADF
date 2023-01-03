@@ -1,0 +1,21 @@
+{
+	"name": "dscsv_Cities_Target",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage_Raw",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "processed"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
