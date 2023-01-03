@@ -1,0 +1,18 @@
+{
+	"name": "AzureBlobStorage_Raw",
+	"properties": {
+		"description": "AzureBlobStorage Raw Folder",
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "saadlsgen2venub28",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "saadlsgen2venub28"
+			}
+		}
+	}
+}
