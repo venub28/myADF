@@ -1,0 +1,9 @@
+{
+	"name": "labadfvenub28",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4e42a0e-11e1-42ac-9de5-2aea84ac196e",
+		"tenantId": "5519319c-12c8-4221-bb67-a6b4f4fa5c87"
+	}
+}
