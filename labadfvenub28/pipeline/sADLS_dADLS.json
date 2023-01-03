@@ -1,0 +1,7 @@
+{
+	"name": "sADLS_dADLS",
+	"properties": {
+		"description": "Source ADLS to Destination ADLS",
+		"annotations": []
+	}
+}
