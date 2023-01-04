@@ -1,5 +1,6 @@
 {
 	"name": "AzureBlobStorage_Raw",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"description": "AzureBlobStorage Raw Folder",
 		"annotations": [],

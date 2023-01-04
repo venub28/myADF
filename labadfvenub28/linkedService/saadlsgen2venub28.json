@@ -1,5 +1,6 @@
 {
 	"name": "saadlsgen2venub28",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "AzureKeyVault",
